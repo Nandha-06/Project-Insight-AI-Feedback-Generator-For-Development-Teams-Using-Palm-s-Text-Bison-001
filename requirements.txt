@@ -1,3 +1,9 @@
-streamlit==1.10.0
 google-generativeai
-
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+altair<5.0.0
+watchdog==4.0.1
+zipp==3.19.2
