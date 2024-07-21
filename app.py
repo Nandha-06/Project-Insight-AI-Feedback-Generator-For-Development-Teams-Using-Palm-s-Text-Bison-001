@@ -61,7 +61,6 @@ if option == "Generate Project Feedback":
     st.subheader("Generate Project Feedback")
 
     # Get the user's input
-    #creating fields for user to input data.
     height = 250
     project_description = st.text_area("Project Description", height=height)
     project_scenarios = st.text_area("Project Scenarios", height=height)
